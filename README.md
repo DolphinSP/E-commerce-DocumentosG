@@ -33,8 +33,8 @@ Documentación específica sobre las épicas que componen el proyecto:
   - `story-02-signup.md`: Registro de nuevas cuentas.
 - **sprints/**:
   - **sprint-001/**:
-    - `tasks.md`: Lista de tareas específicas.
-    - `sprint-review.md`: Resultados del sprint y retrospectiva.
+   - `tasks.md`: Lista de tareas específicas.
+   - `sprint-review.md`: Resultados del sprint y retrospectiva.
 
 #### **epic-02-product-management/**
 - `description.md`: Detalles sobre la gestión de productos.
@@ -92,6 +92,5 @@ Información adicional:
 ### Clonar el Repositorio
 ```bash
 git clone https://github.com/tu-usuario/e-commerce-documentation.git
+docLocal
 cd e-commerce-documentation
-
-
